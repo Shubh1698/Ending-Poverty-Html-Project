@@ -1,0 +1,137 @@
+form.search {
+	margin:auto;
+	float: right;
+	display: inline-block;
+
+	}
+		form.search input[type=text] {
+		  padding: 10px;
+		  font-size: 17px;
+		  border: 1px solid grey;
+		  float: left;
+		  width: 70%;
+		  background: #f1f1f1;
+
+		}
+
+		form.search button {
+		  float: left;
+		  width: 15%;
+		  padding: 10px;
+		  color: black;
+		  font-size: 17px;
+		  border: 1px solid grey;
+		  border-left: none;
+		  cursor: pointer;
+		}
+		 .centertext	{
+		display: block;
+	  margin-left: auto;
+	  margin-right: auto;
+	  width: 60%;
+	  text-align: center;
+	  font-size: 45px;
+	}
+
+		#logo {
+			float: left;
+
+		}
+
+		#headerText  {
+
+		width: 45%;
+		vertical-align: middle;
+		  color: orange;
+		  font-size: 45px;
+		  padding: 10px;
+		  font-family: "Brush Script MT", cursive, sans-serif;
+
+		}
+		#logotext  {
+		margin: auto;
+		padding:0;
+		position: relative;
+		left: -200px;
+		  color: #120196;
+		  font-size: 40px;
+		  font-family: "Chiller", cursive, sans-serif;
+
+		}
+
+
+
+		ul {
+		  list-style-type: none;
+		  margin: auto;
+		  padding: 4px;
+		  overflow: hidden;
+		  background-color: #666666;
+		  width:90%
+
+		}
+
+		li {
+		  float: left;
+		}
+
+		li a {
+		  display: block;
+		  color: black;
+		  text-align: center;
+		  padding: 14px 60px;
+		  text-decoration: none;
+
+
+		}
+
+		li a:hover {
+		  background-color: #fcfcfc;
+		}
+
+		#imagesection {
+		width:70%;
+		margin: 0;
+		padding:0;
+		position: relative;
+		left: 50px;
+		}
+		#textsection {
+		width:50%;
+		float: right;
+		text-align: justify;
+		vertical-align: text-top;
+		top: -400px;
+		left: -120px;
+		position: relative;
+		}
+		#breadcrum {
+		display:inline-block;
+		color:#444;
+		border:1px solid #CCC;
+		width:15%;
+		box-shadow: 0 0 5px -1px rgba(0,0,0,0.2);
+		margin: 0;
+		left: 50px;
+
+		padding: 12px;
+		text-align: center;
+		}
+
+		#contact  {
+		margin: auto;
+		padding:0;
+		position: relative;
+		font-size: 35px;
+
+		}
+
+		#mail  {
+		margin: auto;
+		padding:0;
+		position: relative;
+		font-size: 20px;
+		left: 7%;
+		top: -60px;
+
+		}
